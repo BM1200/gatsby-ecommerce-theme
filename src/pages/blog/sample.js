@@ -25,7 +25,7 @@ const SamplePage = (props) => {
                   style Sunspel stores for Christmas, for which she produced
                   eye-catching sustainably sourced wreaths.
                 </p>
-               <iframe width="560" height="315" src="https://www.youtube.com/embed/HWhWDau5SPg" title="YouTube video player" frameborder="0" 
+               <iframe width="560" height="315" src="https://www.youtube.com/embed/FxzBvqY5PP0" title="YouTube video player" frameborder="0" 
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                 <p className={styles.blogParagraph}>
                   Delaware limited liability company (The Sydney) collects
